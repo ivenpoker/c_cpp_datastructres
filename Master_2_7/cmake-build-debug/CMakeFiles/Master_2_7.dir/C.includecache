@@ -1,0 +1,154 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list.c
+list_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list_p.h
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list.h
+stddef.h
+-
+../LIST/list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list_p.h
+list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list.h
+stddef.h
+-
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree.c
+btree_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree_p.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree.h
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree_p.h
+btree.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx.c
+cpx_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx_p.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx_p.h
+cpx.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx.h
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips.c
+stdio.h
+-
+../../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+../doubly_linked_list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h
+tips_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips_p.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips_p.h
+tips.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.c
+stdlib.h
+-
+stddef.h
+-
+doubly_linked_list_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list_p.h
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h
+stddef.h
+-
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list_p.h
+doubly_linked_list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list.c
+list_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list_p.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list.h
+stddef.h
+-
+../LIST/list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list_p.h
+list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list.h
+../Doubly_LInked_List/doubly_linked_list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+stddef.h
+-
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.c
+list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.h
+stddef.h
+-
+../cda.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.c
+queue_p.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue_p.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.h
+../Doubly_LInked_List/doubly_linked_list.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue_p.h
+queue.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue_usage.c
+stdio.h
+-
+queue.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.h
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.c
+stddef.h
+-
+stdlib.h
+-
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h
+assert.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/main.c
+stdio.h
+-
+CDA_module/QUEUE/queue.h
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.h
+

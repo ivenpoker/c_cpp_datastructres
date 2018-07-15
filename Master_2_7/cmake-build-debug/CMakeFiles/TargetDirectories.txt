@@ -1,0 +1,3 @@
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug/CMakeFiles/Master_2_7.dir

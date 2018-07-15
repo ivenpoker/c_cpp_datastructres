@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Master_2_7"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Master_2_7">
+				<Option output="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug/Master_2_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Master_2_7"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Master_2_7/fast">
+				<Option output="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug/Master_2_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Master_2_7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/deathshot/Projects/CLionProjects/New\ Projects/Master_2_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ALIST/list_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/BTREE/btree_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/CPX/cpx_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/TIPS_module/tips_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/Doubly_LInked_List/doubly_linked_list_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/ELIST/list_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/LIST/list_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/QUEUE/queue_usage.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CDA_module/cda_p.h">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/main.c">
+			<Option target="Master_2_7"/>
+		</Unit>
+		<Unit filename="/home/deathshot/Projects/CLionProjects/New Projects/Master_2_7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
